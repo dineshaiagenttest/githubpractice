@@ -3,8 +3,8 @@ def addition(a, b,c):
 
 print(addition(5, 3))
 
-def subtraction(a, b, e):
-    return a - b - e
+def subtraction(a, b, d):
+    return a - b - d
 
 def multiplication(a, b):
     return a * b    
